@@ -1,2 +1,2 @@
 # helloworld
-Hello world init for React based front end project
+Hello World programm helps react based project to have init setup and file structure
